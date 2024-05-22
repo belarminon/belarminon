@@ -16,15 +16,32 @@ Another cool stuff about me: I love to learn and exchange experiences and knowle
 
 ## 👇🏿 Find me here!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/belarminon)](https://github.com/belarminon)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/belarmino-nicolau-monteiro-sim%C3%A3o-30117522//)](https://www.linkedin.com/in/belarmino-nicolau-monteiro-sim%C3%A3o-30117522/)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=flat-square&logo=facebook)](https://www.facebook.com/belarmino.simao)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/belarminonsimao)](https://twitter.com/belarminonsimao)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/belarmino_nicolau/?hl=pt_BR)](https://www.instagram.com/belarmino_nicolau/?hl=pt_BR)
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=flat-square)](https://web.dio.me/users/belarmino_nicolau/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/watch?v=N-fioJiUmVg)
-[![WhatsApp](https://img.shields.io/badge/-+5512988450080-000?style=flat-square&logo=whatsapp&logoColor=62b1d4&color:FFF)](https://api.whatsapp.com/send?phone=5512988450080)
-
+<div align="center"> 
+  <a href="https://github.com/belarminon/" target="_blank">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/belarmino-nicolau-monteiro-sim%C3%A3o-30117522/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.facebook.com/belarmino.simao/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook" target="_blank">
+  </a>
+  <a href="https://twitter.com/belarminonsimao/" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/belarmino_nicolau/?hl=pt_BR/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://web.dio.me/users/belarmino_nicolau/" target="_blank">
+    <img src="https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge" target="_blank">
+  </a>
+  <a href="https://www.youtube.com/watch?v=N-fioJiUmVg/" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-ff0000?style=for-the-badge&labelColor=ff0000&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=5512988450080/" target="_blank">
+    <img src="https://img.shields.io/badge/-+5512988450080-000?style=for-the-badge&logo=whatsapp&logoColor=62b1d4&color:FFF" target="_blank">
+  </a>
+</div>
 
 ## GitHub Stats | 💪🏿 Hard Skills!
 
@@ -36,10 +53,10 @@ Another cool stuff about me: I love to learn and exchange experiences and knowle
 </p>
 
 ## ⭐ Soft Skills
-![Communicative](https://img.shields.io/badge/Communicative-red?style=flat-square)
-![Proactive](https://img.shields.io/badge/Proactive-blue?style=flat-square)
-![Organized](https://img.shields.io/badge/Organized-red?style=flat-square)
-![Empathetic](https://img.shields.io/badge/Empathetic-blue?style=flat-square)
+![Communicative](https://img.shields.io/badge/Communicative-red?style=for-the-badge)
+![Proactive](https://img.shields.io/badge/Proactive-blue?style=for-the-badge)
+![Organized](https://img.shields.io/badge/Organized-red?style=for-the-badge)
+![Empathetic](https://img.shields.io/badge/Empathetic-blue?style=for-the-badge)
 
 ## 📚 Studying...
 <div align="center">
@@ -116,3 +133,4 @@ A complete guide to data science using the R programming language.
 ## More Courses
 
 You can find more courses on my [Udemy profile](https://www.udemy.com/user/john-doe/). -->
+
