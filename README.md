@@ -9,10 +9,11 @@ Another cool stuff about me: I love to learn and exchange experiences and knowle
 
 - 🌱 I’m currently improving my knowledges.
 - 💬 Ask me about anything
-- ⚡ Fun fact: ❤️ 🐶
+- ⚡ Fun fact: ❤️ 🐶, ![MuppetShowMuppetsGIF](https://github.com/belarminon/belarminon/assets/35656300/a96f6963-c65b-4b8e-840f-a2e0650899b1)
+ Theater, 🛜 **surf the Internet** 
 - 👨🏼‍🏫 [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) - It's are technical courses on many technologies, such as Django, Python, Flutter, Dart, Git and more
-- ✍🏼 [Blog](https://https://bnms.com.br/blogs) - Working on it.
-- 💻 [Website](https://bnms.com.br/) - Working on it.
+- ✍🏼 [![BNMS - Blog](https://img.shields.io/static/v1?label=BNMS&message=Blog&color=2ea44f&style=for-the-badge)](https://bnms.com.br/blog) - Working on it.
+- 💻 [![BNMS - WebSite](https://img.shields.io/static/v1?label=BNMS&message=WebSite&color=2ea44f&style=for-the-badge)](https://bnms.com.br) - Working on it.
 
 ## 👇🏿 Find me here!
 
@@ -51,6 +52,7 @@ Another cool stuff about me: I love to learn and exchange experiences and knowle
   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belarminon&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
 
 </p>
+
 
 ## ⭐ Soft Skills
 ![Communicative](https://img.shields.io/badge/Communicative-red?style=for-the-badge)
@@ -109,6 +111,8 @@ Another cool stuff about me: I love to learn and exchange experiences and knowle
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=belarminon&repo=dio-lab-open-source)](https://github.com/belarminon/github-readme-stats)
 
 [![Belarmino's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belarminon&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![belarminon's github activity graph](https://activity-graph.herokuapp.com/graph?username=belarminon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- 
