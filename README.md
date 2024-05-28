@@ -111,8 +111,6 @@ Another cool stuff about me: I love to learn and exchange experiences and knowle
 
 [![Belarmino's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=belarminon&bg_color=0d1117&color=6695b2&line=ffffff&point=ff0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![belarminon's github activity graph](https://activity-graph.herokuapp.com/graph?username=belarminon&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## My Trophy
 [![belarminon's github trophy](https://github-profile-trophy.vercel.app/?username=belarminon&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
