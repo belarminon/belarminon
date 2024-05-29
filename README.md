@@ -49,9 +49,10 @@ Another cool stuff about me: I love to learn and exchange experiences and knowle
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api/?username=belarminon&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
   <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belarminon&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=belarminon&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belarminon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
 </p>
-
 
 ## ⭐ Soft Skills
 ![Communicative](https://img.shields.io/badge/Communicative-red?style=for-the-badge)
